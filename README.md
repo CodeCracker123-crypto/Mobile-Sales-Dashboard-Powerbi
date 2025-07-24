@@ -1,28 +1,56 @@
-🚀 Power BI Dashboard Showcase: Mobile Sales Insights 📱📊
+# 🚀 Power BI Dashboard: Mobile Sales Insights 📱📊
 
-I’m excited to share my latest project — an interactive Mobile Sales Data Dashboard built using Microsoft Power BI!
+Welcome to my Power BI project — an **interactive Mobile Sales Data Dashboard** designed to provide valuable insights into mobile phone sales across different cities, brands, models, and payment methods.
 
-📌 Key Highlights:
-✅ Total Sales: 57M+
-✅ Total Transactions: 315
-✅ Total Quantity: 2K
-✅ Dynamic Filters for Brand, Model, Payment Method, and Day
-✅ Geographical Insights – Sales by City across India 🌍
-✅ Daily and Weekly Trends 📅
-✅ Customer Ratings Breakdown ⭐
-✅ Payment Method Distribution 💳
-✅ Top Performing Brands & Mobile Models 📈
+This project is part of my data analytics portfolio and highlights the power of visual storytelling using Microsoft Power BI.
 
-This dashboard helps track performance, analyze trends, and make data-driven decisions quickly and visually.
+---
 
-💡 Tools Used:
-✔ Microsoft Power BI
-✔ DAX Calculations
-✔ Interactive Slicers & Drilldowns
-✔ Map Visuals and KPIs
+## 📌 Key Highlights
 
-🔍 Whether you're in sales, marketing, or operations, dashboards like this offer real-time visibility into business performance.
+- ✅ **Total Sales**: 57M+
+- ✅ **Total Transactions**: 315
+- ✅ **Total Quantity Sold**: 2K units
+- 📍 **Geographical View**: Sales by City (India Map)
+- 🔍 **Dynamic Filters**: Brand, Model, Payment Method, Day, Month
+- 📈 **Visual Trends**: Daily and Weekly sales insights
+- 🌟 **Customer Ratings Breakdown**
+- 💳 **Payment Method Distribution**
+- 🔝 **Top Performing Brands & Mobile Models**
 
-📥 Feel free to share your feedback or let me know if you'd like a walkthrough!
+---
 
-#PowerBI #DataAnalytics #DashboardDesign #BusinessIntelligence #DataVisualization #MobileSales #MicrosoftPowerBI #Analytics #DataDriven #FYP #FinalYearProject
+## 💡 Tools & Technologies
+
+- **Microsoft Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Power Query Editor**
+- **Interactive Visuals**: Slicers, Maps, Pie/Bar/Line Charts, Cards
+
+---
+
+## 🎯 Use Case
+
+This dashboard is useful for:
+
+- **Sales Managers** – to track performance and identify trends  
+- **Marketing Teams** – to understand customer preferences and city-wise demand  
+- **Retail Business Owners** – to analyze top brands and payment methods  
+- **Data Analysts** – to explore real-time analytics and visualization techniques
+
+---
+
+## 📂 How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Interact with slicers to explore insights by:
+   - Brand
+   - Mobile Model
+   - Payment Method
+   - Day of the Week
+   - Month
+
+---
+
+Thank you for checking out my project! 😊
